@@ -1,1 +1,1 @@
-export { TodoEmpty } from "./TodoEmpty";
+export { TodoPage as TodoEmpty } from "./TodoPage";

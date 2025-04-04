@@ -4,7 +4,7 @@ import { TaskInput } from "../../components/TaskInput";
 import { TaskCounter } from "../../components/TaskCounter";
 import { EmptyState } from "../../components/EmptyState";
 
-export const TodoEmpty = (): JSX.Element => {
+export const TodoPage = (): JSX.Element => {
   return (
     <div className="bg-[#191919] flex flex-row justify-center w-full min-h-screen">
       <div className="bg-gray-600 w-full max-w-[1440px] h-[1024px] relative">
