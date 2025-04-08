@@ -1,6 +1,3 @@
-import React from "react";
-import { PlusCircleIcon } from "lucide-react";
-import { Button } from "../ui/button";
 import { Input } from "../ui/input";
 
 export const TaskInput = (): JSX.Element => {
