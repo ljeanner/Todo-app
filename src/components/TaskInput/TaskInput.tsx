@@ -10,10 +10,6 @@ export const TaskInput = (): JSX.Element => {
         className="flex-1 p-4 bg-gray-500 text-gray-300 border-[#0c0c0c] placeholder:text-gray-300"
         placeholder="Add a new Task"
       />
-      <Button className="p-4 bg-blue-dark hover:bg-blue-dark/90 text-gray-100 rounded-lg flex items-center gap-2">
-        <span className="font-bold text-sm">Add</span>
-        <PlusCircleIcon className="w-4 h-4" />
-      </Button>
     </div>
   );
 };
